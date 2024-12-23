@@ -1,9 +1,18 @@
-### Hi there 👋, I’m Sanju ❤️
+Hi there 👋, I’m Sanju ❤️
+🛡️ About Me
+🔐 Passionate cybersecurity enthusiast with expertise in penetration testing, malware analysis, and cloud security.
+🌱 Currently pursuing an M.S. in Cybersecurity at George Mason University.
+⚙️ Skills
+Programming: Python, Bash, C
+Tools: Nmap, Hydra, Wireshark, Metasploit, Nessus
+Technologies: Kali Linux, AWS, Docker, VMware, MySQL
+🎓 Certifications
+eJPT (Junior Penetration Tester)
+ICCA (Certified Cloud Associate)
+📚 Learning Goals
+Deepening expertise in reverse engineering and advanced penetration testing.
+🚀 GitHub Stats
 
-#### About
-- 🌱 Learning: Ethical Hacking, Penetration Testing, and Digital Forensics
-- 💻 Skills: Kali Linux, Nmap, Metasploit, Python, SQL, Nessus
-- 🎨 Hobbies: Playing Cricket, Watching Anime, Listening to Podcasts
-
-#### GitHub Stats
-![Sanju's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjuCyb3r&show_icons=true&theme=dark)
+🌐 Connect with Me
+LinkedIn
+TryHackMe
