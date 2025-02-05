@@ -10,6 +10,7 @@
 - **Technologies**: Kali Linux, AWS, Docker, VMware, MySQL  
 
 #### 🎓 Certifications
+- **Coursera** (Google Cybersecurity Professional)
 - **eJPT** (Junior Penetration Tester)  
 - **ICCA** (Certified Cloud Associate)  
 
