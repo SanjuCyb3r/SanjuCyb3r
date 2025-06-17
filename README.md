@@ -23,42 +23,14 @@ I’m a Cybersecurity Graduate Student at **George Mason University**, currently
 
 ### Programming Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
----
+### Cybersecurity Tools:![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6610?style=flat-square&logo=burpsuite&logoColor=white)![Nmap](https://img.shields.io/badge/Nmap-00488C?style=flat-square) ![Metasploit](https://img.shields.io/badge/Metasploit-3B4F91?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-00629b?style=flat-square&logo=wireshark&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-333333?style=flat-square) ![Ghidra](https://img.shields.io/badge/Ghidra-B31B1B?style=flat-square) ![CyberChef] (https://img.shields.io/badge/CyberChef-6ecf0e?style=flat-square) ![Autopsy](https://img.shields.io/badge/Autopsy-1D76DB?style=flat-square)
 
-### Cybersecurity Tools:
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6610?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00488C?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-3B4F91?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-00629b?style=flat-square&logo=wireshark&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-333333?style=flat-square)
-![Ghidra](https://img.shields.io/badge/Ghidra-B31B1B?style=flat-square)
-![CyberChef](https://img.shields.io/badge/CyberChef-6ecf0e?style=flat-square)
-![Autopsy](https://img.shields.io/badge/Autopsy-1D76DB?style=flat-square)
+### Cloud & Platforms: ![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+### Operating Systems: ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-### Cloud & Platforms:
-![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### Operating Systems:
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-
----
-
-### Developer & Research Tools:
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Developer & Research Tools: ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
 ## 💼 Professional Experience
