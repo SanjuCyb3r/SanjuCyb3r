@@ -1,4 +1,5 @@
-### Hi there 👋, I’m Sanju ❤️
+# 👋 Hey, I'm Sanjay Kumar Samala! 🧑‍💻
+
 
 #### 🛡️ About Me
 - 🔐 Passionate cybersecurity enthusiast with expertise in penetration testing, malware analysis, and cloud security.  
