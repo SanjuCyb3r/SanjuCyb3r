@@ -81,20 +81,21 @@ I’m a Cybersecurity Graduate Student at **George Mason University**, currently
   Selected for the national finals of the Capture the Flag competition based on strong performance in binary exploitation, steganography, forensics, and reverse engineering.
 
 
+## 🏆 Achievements
 
-  
+- 🧠 Finalist – **INCS-COE C2C CTF 2025 National Round**
+- 🧪 Successfully conducted reverse engineering labs including **IAT reconstruction**, **memory dump analysis**, and **DLL injection**
+- 🕵️ Recognized for solving complex **forensic analysis** tasks on hard disk and SD card images using Autopsy and Volatility
+- 🧰 Built internal tools and scripts for **network enumeration**, **log monitoring**, and **encrypted file recovery** during penetration testing internship
 
-#### 🎓 Certifications
-- **Coursera** (Google Cybersecurity Professional)
-- **eJPT** (Junior Penetration Tester)  
-- **ICCA** (Certified Cloud Associate)  
+---
 
-#### 📚 Learning Goals
-- Deepening expertise in reverse engineering and advanced penetration testing.  
+## 📫 Contact
 
-#### 🚀 GitHub Stats
-![Sanju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanjuCyb3r&show_icons=true&theme=dark)
+- 📧 **Email:** [sanjaykumarsamala@gmu.edu](mailto:sanjaykumarsamala@gmu.edu)
+- 💼 **LinkedIn:** [linkedin.com/in/sanjaykumarsamala](https://linkedin.com/in/sanjaykumarsamala)
+- 📍 **Location:** Fairfax, VA, USA
 
-#### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sanjay-kumar-samala/)  
+
+ 
 - [TryHackMe](https://tryhackme.com/p/sanju.samala)  
