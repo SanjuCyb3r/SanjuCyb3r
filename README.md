@@ -89,7 +89,6 @@ Developer & Research Tools: ![VS Code](https://img.shields.io/badge/VS%20Code-00
 ## 📫 Contact
 
 - 📧 **Email:** [sanjaykumarsamala2001@gmail.com](mailto:sanjaykumarsamala2001@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/sanjay-kumar-samala](https://www.linkedin.com/in/sanjay-kumar-samala/)
-- [TryHackMe](https://tryhackme.com/p/sanju.samala) 
+- 💼 **LinkedIn:** [linkedin.com/in/sanjay-kumar-samala](https://www.linkedin.com/in/sanjay-kumar-samala/) 
 - 📍 **Location:** Fairfax, VA, USA
 
