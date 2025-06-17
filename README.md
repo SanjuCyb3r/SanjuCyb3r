@@ -47,12 +47,42 @@ Developer & Research Tools: ![VS Code](https://img.shields.io/badge/VS%20Code-00
   Selected for the national finals of the Capture the Flag competition based on strong performance in binary exploitation, steganography, forensics, and reverse engineering.
 
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
-- 🧠 Finalist – **INCS-COE C2C CTF 2025 National Round**
-- 🧪 Successfully conducted reverse engineering labs including **IAT reconstruction**, **memory dump analysis**, and **DLL injection**
-- 🕵️ Recognized for solving complex **forensic analysis** tasks on hard disk and SD card images using Autopsy and Volatility
-- 🧰 Built internal tools and scripts for **network enumeration**, **log monitoring**, and **encrypted file recovery** during penetration testing internship
+### 🏅 Achievements
+
+- 🧠 **INCS-COE C2C CTF 2025 – Finalist**  
+  Selected for the national round, demonstrating strengths in binary exploitation, forensics, and steganography.
+
+- 🔍 **Graduate Teaching Assistant – George Mason University**  
+  Guided 50+ students in labs for penetration testing and secure networking, with hands-on exposure to Burp Suite, Zeek, Metasploit, and SSL/TLS.
+
+- 🧪 **Malware Reverse Engineering Project**  
+  Analyzed ms16iexec.exe malware using IDA Pro, Hex Editor, and Process Monitor — identified 15+ vulnerabilities and registry/API abuse.
+
+- 🛠️ **Web Application Penetration Testing Internship – HackersForYou**  
+  Discovered and reported critical vulnerabilities, built automated security testing scripts in Python, and contributed to internal frameworks.
+
+- 🔐 **Encryption & Decryption Project on Dockerized Angular App**  
+  Deployed secure CI/CD pipeline on AWS; implemented AES/RSA-based encryption for web app data protection with 99.9% uptime.
+
+---
+
+### 📜 Certifications
+
+- ✅ [**Google Cybersecurity Professional Certificate** – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/IVR6TXW67H9L)
+- ✅ [**eJPT – Junior Penetration Tester** – INE Security](https://certs.ine.com/ef844c6e-ce79-4c67-a2bf-e53eae42a7ea#gs.bqduqn)
+- ✅ [**ICCA – Certified Cloud Associate** – INE Security](https://certs.ine.com/f28b5436-a6d2-4af7-9c6d-38b6b3ac7a97)
+- ✅ [**Offensive Hacking Unfolded – Beginner’s Edition** – comproavi](https://app.onlinecoursehost.com/certificate-proof/EWCMtAhS9bQgqAhVHuI5wJwrR5r1/YQdCEpJMDMILoe39Nv23/AYT6h9AEHaR65IES9laD2mv8cjw1)
+- ✅ **Cyber Threat Intelligence 101** – arcX
+
+---
+
+### 🧑‍💻 Platforms
+
+- 🧱 [**TryHackMe Profile**](https://tryhackme.com/p/sanju.samala) – Solved rooms on privilege escalation, forensics, stego, and more  
+  ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red)
+
 
 ---
 
