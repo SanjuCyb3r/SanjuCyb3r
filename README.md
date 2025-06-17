@@ -21,7 +21,7 @@ I’m a Cybersecurity Graduate Student at **George Mason University**, currently
 
 ## 🧰 Toolbox
 
-### Programming Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+Programming Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 ### Cybersecurity Tools: ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6610?style=flat-square&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00488C?style=flat-square) ![Metasploit](https://img.shields.io/badge/Metasploit-3B4F91?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-00629b?style=flat-square&logo=wireshark&logoColor=white) ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-333333?style=flat-square) ![Ghidra](https://img.shields.io/badge/Ghidra-B31B1B?style=flat-square) ![CyberChef](https://img.shields.io/badge/CyberChef-6ecf0e?style=flat-square) ![Autopsy](https://img.shields.io/badge/Autopsy-1D76DB?style=flat-square)
 
