@@ -37,7 +37,6 @@ I’m a Cybersecurity Graduate Student at **George Mason University**, currently
 ![Ghidra](https://img.shields.io/badge/Ghidra-B31B1B?style=flat-square)
 ![CyberChef](https://img.shields.io/badge/CyberChef-6ecf0e?style=flat-square)
 ![Autopsy](https://img.shields.io/badge/Autopsy-1D76DB?style=flat-square)
-![Volatility](https://img.shields.io/badge/Volatility-800080?style=flat-square)
 
 ---
 
@@ -63,7 +62,6 @@ I’m a Cybersecurity Graduate Student at **George Mason University**, currently
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 
 ## 💼 Professional Experience
@@ -94,8 +92,6 @@ I’m a Cybersecurity Graduate Student at **George Mason University**, currently
 
 - 📧 **Email:** [sanjaykumarsamala@gmu.edu](mailto:sanjaykumarsamala@gmu.edu)
 - 💼 **LinkedIn:** [linkedin.com/in/sanjaykumarsamala](https://linkedin.com/in/sanjaykumarsamala)
+- [TryHackMe](https://tryhackme.com/p/sanju.samala) 
 - 📍 **Location:** Fairfax, VA, USA
 
-
- 
-- [TryHackMe](https://tryhackme.com/p/sanju.samala)  
