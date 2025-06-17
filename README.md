@@ -18,51 +18,51 @@ I’m a Cybersecurity Graduate Student at **George Mason University**, currently
 🚀 I'm passionate about contributing to CTFs, collaborating on security research, and exploring new challenges in the world of ethical hacking and cybersecurity.
 
   
-
 ## 🧰 Toolbox
 
-**Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+### Programming Languages:
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
-**Cybersecurity Tools:**  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6610?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-007dc6?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-3b4f91?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-304ffe?style=for-the-badge&logo=wireshark&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-grey?style=for-the-badge)
-![Ghidra](https://img.shields.io/badge/Ghidra-b31b1b?style=for-the-badge)
-![CyberChef](https://img.shields.io/badge/CyberChef-green?style=for-the-badge)
-![Autopsy](https://img.shields.io/badge/Autopsy-blue?style=for-the-badge)
-![Volatility](https://img.shields.io/badge/Volatility-purple?style=for-the-badge)
+### Cybersecurity Tools:
+![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/NMAP-00488C?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/METASPLOIT-3B4F91?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-007ACC?style=for-the-badge&logo=wireshark&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA%20PRO-333333?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/GHIDRA-B31B1B?style=for-the-badge)
+![CyberChef](https://img.shields.io/badge/CYBERCHEF-A8E10C?style=for-the-badge)
+![Autopsy](https://img.shields.io/badge/AUTOPSY-1D76DB?style=for-the-badge)
+![Volatility](https://img.shields.io/badge/VOLATILITY-800080?style=for-the-badge)
 
 ---
 
-**Cloud & Platforms:**  
-![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Cloud & Platforms:
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GOOGLE%20CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-**Operating Systems:**  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### Operating Systems:
+![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-**Developer & Research Tools:**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Developer & Research Tools:
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
   
 
 #### 🎓 Certifications
