@@ -1,4 +1,4 @@
-  # 👋 Hey, I'm Sanjay Kumar Samala! 🧑‍💻
+  <h1 align="center">👋 Hey, I'm Sanjay Kumar Samala! 🧑‍💻</h1>
 
 
 #### 🛡️ About Me
