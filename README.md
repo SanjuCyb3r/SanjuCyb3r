@@ -66,6 +66,20 @@ I’m a Cybersecurity Graduate Student at **George Mason University**, currently
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 
+## 💼 Professional Experience
+
+
+- **Penetration Testing Intern** *(Summer 2023)*  
+  Conducted internal and external network penetration testing, web app assessments, and wrote technical reports on discovered vulnerabilities.  
+  Tools used: Nmap, Burp Suite, SQLMap, Metasploit, Gobuster, Nikto.
+
+- **Graduate Teaching Assistant @ George Mason University** *(2024 – Present)*  
+  Assisting in **CYSE 230 (Computer Networking)** and **CYSE 445/450 (Offensive Security & Penetration Testing Labs)**.  
+  Responsibilities include grading labs, guiding students through tool usage (Wireshark, Autopsy, IDA Pro), and leading hands-on demonstrations.
+
+- **CTF Competitor – INCS-COE C2C CTF Finalist (2025)**  
+  Selected for the national finals of the Capture the Flag competition based on strong performance in binary exploitation, steganography, forensics, and reverse engineering.
+
 
 
   
