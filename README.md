@@ -95,11 +95,6 @@ Developer & Research Tools: ![VS Code](https://img.shields.io/badge/VS%20Code-00
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=SanjuCyb3r&theme=onedark&margin-w=15&margin-h=15)
-
----
-
 ### 🧑‍💻 Platforms
 
 - 🧱 [**TryHackMe Profile**](https://tryhackme.com/p/sanju.samala) – Solved rooms on privilege escalation, forensics, stego, and more  
