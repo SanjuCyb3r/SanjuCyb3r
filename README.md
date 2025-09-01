@@ -78,6 +78,24 @@ Developer & Research Tools: ![VS Code](https://img.shields.io/badge/VS%20Code-00
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjuCyb3r&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjuCyb3r&layout=compact&theme=radical)
+
+---
+
+## 📌 Featured Projects
+
+- 🔍 [**Hard-Drive Forensics Report**](https://github.com/SanjuCyb3r/hard-drive-forensics) – Full forensic analysis of Seagate Barracuda HDD (FTK, Autopsy, UltraDock)
+- 🐛 [**MS16iexec Malware Analysis**](https://github.com/SanjuCyb3r/ms16iexec-malware-analysis) – Reverse engineering of Windows PE malware with IDA Pro, YARA, and ProcMon
+- 🛡️ [**Basic Pentesting 1 Walkthrough**](https://github.com/SanjuCyb3r/Basic-Pentesting-1) – Vulnhub boot2root machine walkthrough with privilege escalation
+- 💻 [**Metasploitable-2 Walkthrough**](https://github.com/SanjuCyb3r/Metasploitable-2) – Complete exploitation notes across multiple vulnerable services
+
+---
+
+
 ### 🧑‍💻 Platforms
 
 - 🧱 [**TryHackMe Profile**](https://tryhackme.com/p/sanju.samala) – Solved rooms on privilege escalation, forensics, stego, and more  
