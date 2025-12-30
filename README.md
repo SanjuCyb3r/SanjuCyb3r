@@ -14,6 +14,7 @@ I’m a Cybersecurity Graduate Student at **George Mason University**, currently
 - 🧑‍🏫 Serving as a **Graduate Teaching Assistant (GTA)** for:
   - CYSE 230: Computer Networking Fundamentals
   - CYSE 445/450: Offensive Security & Pentesting Labs
+  - CYSE 470: Human Factors and Cyber Security Engineering.
 
 🚀 I'm passionate about contributing to CTFs, collaborating on security research, and exploring new challenges in the world of ethical hacking and cybersecurity.
 
