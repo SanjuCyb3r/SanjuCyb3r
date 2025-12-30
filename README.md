@@ -35,16 +35,21 @@ Developer & Research Tools: ![VS Code](https://img.shields.io/badge/VS%20Code-00
 ## 💼 Professional Experience
 
 
-- **Penetration Testing Intern** *(Summer 2023)*  
-  Conducted internal and external network penetration testing, web app assessments, and wrote technical reports on discovered vulnerabilities.  
-  Tools used: Nmap, Burp Suite, SQLMap, Metasploit, Gobuster, Nikto.
+- **Research Assistant @ Mason Living Innovation Lab, George Mason University** *(Summer 2025 – Present)*  
+  Conducting embedded hardware security research focused on **Cyber-Physical Systems (CPS)** and industrial automation environments.  
+  Performed fault-injection experiments using **ChipSHOUTER EMFI** and **Rigol oscilloscopes**, collected and analyzed timing and power signals, calibrated lab equipment, and developed **Python scripts** to systematically record, organize, and analyze experimental results.
 
-- **Graduate Teaching Assistant @ George Mason University** *(2024 – Present)*  
+- **Graduate Teaching Assistant @ George Mason University** *(Aug 2024 – Dec 2025)*  
   Assisting in **CYSE 230 (Computer Networking)** and **CYSE 445/450 (Offensive Security & Penetration Testing Labs)**.  
   Responsibilities include grading labs, guiding students through tool usage (Wireshark, Autopsy, IDA Pro), and leading hands-on demonstrations.
 
+- **Penetration Testing Intern** *(Summer 2023)*  
+  Conducted internal and external network penetration testing, web application security assessments, and authored technical vulnerability reports.  
+  Tools used: Nmap, Burp Suite, SQLMap, Metasploit, Gobuster, Nikto.
+
 - **CTF Competitor – INCS-COE C2C CTF Finalist (2025)**  
   Selected for the national finals of the Capture the Flag competition based on strong performance in binary exploitation, steganography, forensics, and reverse engineering.
+
 
 
 ## 🏆 Achievements & Certifications
